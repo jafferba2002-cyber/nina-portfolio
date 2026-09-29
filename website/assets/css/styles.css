@@ -1405,6 +1405,9 @@ textarea.input { min-height: 150px; resize: vertical; }
 .footer__bar p { margin: 0; font-size: 0.9rem; color: var(--ink-2); }
 .footer__bar b { color: var(--ink); font-weight: 650; }
 .footer__links { display: flex; flex-wrap: wrap; gap: 8px; }
+.footer__credit { margin: 18px 0 0; text-align: center; font-size: 0.85rem; color: var(--ink-2); }
+.footer__credit a { color: var(--ink); font-weight: 650; text-decoration: none; }
+.footer__credit a:hover { text-decoration: underline; }
 
 /* ---------------------------------------------------------------------
    Toast
